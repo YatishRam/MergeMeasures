@@ -1,0 +1,691 @@
+﻿Key,Value
+summarypopulation0 - under 16,AGE0YR16YR_TP
+summarypopulation16 - under 30,AGE16YR30YR_TP
+summarypopulation30 - under 40,AGE30YR40YR_TP
+summarypopulation40 - under 50,AGE40YR50YR_TP
+summarypopulation50 - under 55,AGE50YR55YR_TP
+summarypopulation55 - under 60,AGE55YR60YR_TP
+summarypopulation60 - under 65,AGE60YR65YR_TP
+summarypopulation65 - under 70,AGE65YR70YR_TP
+summarypopulation70 - under 75,AGE70YR75YR_TP
+summarypopulation75 - under 80,AGE75YR80YR_TP
+summarypopulation80 - under 85,AGE80YR85YR_TP
+summarypopulation85 plus,AGE85PL_TP
+summary_riskgrouppopulation0 - under 16,ATRISK_AGE0YR16YR_TP
+summary_riskgrouppopulation16 - under 30,ATRISK_AGE16YR30YR_TP
+summary_riskgrouppopulation30 - under 40,ATRISK_AGE30YR40YR_TP
+summary_riskgrouppopulation40 - under 50,ATRISK_AGE40YR50YR_TP
+summary_riskgrouppopulation50 - under 55,ATRISK_AGE50YR55YR_TP
+summary_riskgrouppopulation55 - under 60,ATRISK_AGE55YR60YR_TP
+summary_riskgrouppopulation60 - under 65,ATRISK_AGE60YR65YR_TP
+summary_riskgrouppopulation65 - under 70,ATRISK_AGE65YR70YR_TP
+summary_riskgrouppopulation70 - under 75,ATRISK_AGE70YR75YR_TP
+summary_riskgrouppopulation75 - under 80,ATRISK_AGE75YR80YR_TP
+summary_riskgrouppopulation80 - under 85,ATRISK_AGE80YR85YR_TP
+summary_riskgrouppopulation85 plus,ATRISK_AGE85PL_TP
+summaryfirst_dose0 - under 16,AGE0YR16YR_NVD1
+summaryfirst_dose16 - under 30,AGE16YR30YR_NVD1
+summaryfirst_dose30 - under 40,AGE30YR40YR_NVD1
+summaryfirst_dose40 - under 50,AGE40YR50YR_NVD1
+summaryfirst_dose50 - under 55,AGE50YR55YR_NVD1
+summaryfirst_dose55 - under 60,AGE55YR60YR_NVD1
+summaryfirst_dose60 - under 65,AGE60YR65YR_NVD1
+summaryfirst_dose65 - under 70,AGE65YR70YR_NVD1
+summaryfirst_dose70 - under 75,AGE70YR75YR_NVD1
+summaryfirst_dose75 - under 80,AGE75YR80YR_NVD1
+summaryfirst_dose80 - under 85,AGE80YR85YR_NVD1
+summaryfirst_dose85 plus,AGE85PL_NVD1
+summary_riskgroupfirst_dose0 - under 16,ATRISK_AGE0YR16YR_NVD1
+summary_riskgroupfirst_dose16 - under 30,ATRISK_AGE16YR30YR_NVD1
+summary_riskgroupfirst_dose30 - under 40,ATRISK_AGE30YR40YR_NVD1
+summary_riskgroupfirst_dose40 - under 50,ATRISK_AGE40YR50YR_NVD1
+summary_riskgroupfirst_dose50 - under 55,ATRISK_AGE50YR55YR_NVD1
+summary_riskgroupfirst_dose55 - under 60,ATRISK_AGE55YR60YR_NVD1
+summary_riskgroupfirst_dose60 - under 65,ATRISK_AGE60YR65YR_NVD1
+summary_riskgroupfirst_dose65 - under 70,ATRISK_AGE65YR70YR_NVD1
+summary_riskgroupfirst_dose70 - under 75,ATRISK_AGE70YR75YR_NVD1
+summary_riskgroupfirst_dose75 - under 80,ATRISK_AGE75YR80YR_NVD1
+summary_riskgroupfirst_dose80 - under 85,ATRISK_AGE80YR85YR_NVD1
+summary_riskgroupfirst_dose85 plus,ATRISK_AGE85PL_NVD1
+summarysecond_dose0 - under 16,AGE0YR16YR_NVD2
+summarysecond_dose16 - under 30,AGE16YR30YR_NVD2
+summarysecond_dose30 - under 40,AGE30YR40YR_NVD2
+summarysecond_dose40 - under 50,AGE40YR50YR_NVD2
+summarysecond_dose50 - under 55,AGE50YR55YR_NVD2
+summarysecond_dose55 - under 60,AGE55YR60YR_NVD2
+summarysecond_dose60 - under 65,AGE60YR65YR_NVD2
+summarysecond_dose65 - under 70,AGE65YR70YR_NVD2
+summarysecond_dose70 - under 75,AGE70YR75YR_NVD2
+summarysecond_dose75 - under 80,AGE75YR80YR_NVD2
+summarysecond_dose80 - under 85,AGE80YR85YR_NVD2
+summarysecond_dose85 plus,AGE85PL_NVD2
+summary_riskgroupsecond_dose0 - under 16,ATRISK_AGE0YR16YR_NVD2
+summary_riskgroupsecond_dose16 - under 30,ATRISK_AGE16YR30YR_NVD2
+summary_riskgroupsecond_dose30 - under 40,ATRISK_AGE30YR40YR_NVD2
+summary_riskgroupsecond_dose40 - under 50,ATRISK_AGE40YR50YR_NVD2
+summary_riskgroupsecond_dose50 - under 55,ATRISK_AGE50YR55YR_NVD2
+summary_riskgroupsecond_dose55 - under 60,ATRISK_AGE55YR60YR_NVD2
+summary_riskgroupsecond_dose60 - under 65,ATRISK_AGE60YR65YR_NVD2
+summary_riskgroupsecond_dose65 - under 70,ATRISK_AGE65YR70YR_NVD2
+summary_riskgroupsecond_dose70 - under 75,ATRISK_AGE70YR75YR_NVD2
+summary_riskgroupsecond_dose75 - under 80,ATRISK_AGE75YR80YR_NVD2
+summary_riskgroupsecond_dose80 - under 85,ATRISK_AGE80YR85YR_NVD2
+summary_riskgroupsecond_dose85 plus,ATRISK_AGE85PL_NVD2
+summaryaz_first_dose0 - under 16,AGE0YR16YR_AZD1
+summaryaz_first_dose16 - under 30,AGE16YR30YR_AZD1
+summaryaz_first_dose30 - under 40,AGE30YR40YR_AZD1
+summaryaz_first_dose40 - under 50,AGE40YR50YR_AZD1
+summaryaz_first_dose50 - under 55,AGE50YR55YR_AZD1
+summaryaz_first_dose55 - under 60,AGE55YR60YR_AZD1
+summaryaz_first_dose60 - under 65,AGE60YR65YR_AZD1
+summaryaz_first_dose65 - under 70,AGE65YR70YR_AZD1
+summaryaz_first_dose70 - under 75,AGE70YR75YR_AZD1
+summaryaz_first_dose75 - under 80,AGE75YR80YR_AZD1
+summaryaz_first_dose80 - under 85,AGE80YR85YR_AZD1
+summaryaz_first_dose85 plus,AGE85PL_AZD1
+summary_riskgroupaz_first_dose0 - under 16,ATRISK_AGE0YR16YR_AZD1
+summary_riskgroupaz_first_dose16 - under 30,ATRISK_AGE16YR30YR_AZD1
+summary_riskgroupaz_first_dose30 - under 40,ATRISK_AGE30YR40YR_AZD1
+summary_riskgroupaz_first_dose40 - under 50,ATRISK_AGE40YR50YR_AZD1
+summary_riskgroupaz_first_dose50 - under 55,ATRISK_AGE50YR55YR_AZD1
+summary_riskgroupaz_first_dose55 - under 60,ATRISK_AGE55YR60YR_AZD1
+summary_riskgroupaz_first_dose60 - under 65,ATRISK_AGE60YR65YR_AZD1
+summary_riskgroupaz_first_dose65 - under 70,ATRISK_AGE65YR70YR_AZD1
+summary_riskgroupaz_first_dose70 - under 75,ATRISK_AGE70YR75YR_AZD1
+summary_riskgroupaz_first_dose75 - under 80,ATRISK_AGE75YR80YR_AZD1
+summary_riskgroupaz_first_dose80 - under 85,ATRISK_AGE80YR85YR_AZD1
+summary_riskgroupaz_first_dose85 plus,ATRISK_AGE85PL_AZD1
+summaryaz_second_dose0 - under 16,AGE0YR16YR_AZD2
+summaryaz_second_dose16 - under 30,AGE16YR30YR_AZD2
+summaryaz_second_dose30 - under 40,AGE30YR40YR_AZD2
+summaryaz_second_dose40 - under 50,AGE40YR50YR_AZD2
+summaryaz_second_dose50 - under 55,AGE50YR55YR_AZD2
+summaryaz_second_dose55 - under 60,AGE55YR60YR_AZD2
+summaryaz_second_dose60 - under 65,AGE60YR65YR_AZD2
+summaryaz_second_dose65 - under 70,AGE65YR70YR_AZD2
+summaryaz_second_dose70 - under 75,AGE70YR75YR_AZD2
+summaryaz_second_dose75 - under 80,AGE75YR80YR_AZD2
+summaryaz_second_dose80 - under 85,AGE80YR85YR_AZD2
+summaryaz_second_dose85 plus,AGE85PL_AZD2
+summary_riskgroupaz_second_dose0 - under 16,ATRISK_AGE0YR16YR_AZD2
+summary_riskgroupaz_second_dose16 - under 30,ATRISK_AGE16YR30YR_AZD2
+summary_riskgroupaz_second_dose30 - under 40,ATRISK_AGE30YR40YR_AZD2
+summary_riskgroupaz_second_dose40 - under 50,ATRISK_AGE40YR50YR_AZD2
+summary_riskgroupaz_second_dose50 - under 55,ATRISK_AGE50YR55YR_AZD2
+summary_riskgroupaz_second_dose55 - under 60,ATRISK_AGE55YR60YR_AZD2
+summary_riskgroupaz_second_dose60 - under 65,ATRISK_AGE60YR65YR_AZD2
+summary_riskgroupaz_second_dose65 - under 70,ATRISK_AGE65YR70YR_AZD2
+summary_riskgroupaz_second_dose70 - under 75,ATRISK_AGE70YR75YR_AZD2
+summary_riskgroupaz_second_dose75 - under 80,ATRISK_AGE75YR80YR_AZD2
+summary_riskgroupaz_second_dose80 - under 85,ATRISK_AGE80YR85YR_AZD2
+summary_riskgroupaz_second_dose85 plus,ATRISK_AGE85PL_AZD2
+summarypf_first_dose0 - under 16,AGE0YR16YR_PFD1
+summarypf_first_dose16 - under 30,AGE16YR30YR_PFD1
+summarypf_first_dose30 - under 40,AGE30YR40YR_PFD1
+summarypf_first_dose40 - under 50,AGE40YR50YR_PFD1
+summarypf_first_dose50 - under 55,AGE50YR55YR_PFD1
+summarypf_first_dose55 - under 60,AGE55YR60YR_PFD1
+summarypf_first_dose60 - under 65,AGE60YR65YR_PFD1
+summarypf_first_dose65 - under 70,AGE65YR70YR_PFD1
+summarypf_first_dose70 - under 75,AGE70YR75YR_PFD1
+summarypf_first_dose75 - under 80,AGE75YR80YR_PFD1
+summarypf_first_dose80 - under 85,AGE80YR85YR_PFD1
+summarypf_first_dose85 plus,AGE85PL_PFD1
+summary_riskgrouppf_first_dose0 - under 16,ATRISK_AGE0YR16YR_PFD1
+summary_riskgrouppf_first_dose16 - under 30,ATRISK_AGE16YR30YR_PFD1
+summary_riskgrouppf_first_dose30 - under 40,ATRISK_AGE30YR40YR_PFD1
+summary_riskgrouppf_first_dose40 - under 50,ATRISK_AGE40YR50YR_PFD1
+summary_riskgrouppf_first_dose50 - under 55,ATRISK_AGE50YR55YR_PFD1
+summary_riskgrouppf_first_dose55 - under 60,ATRISK_AGE55YR60YR_PFD1
+summary_riskgrouppf_first_dose60 - under 65,ATRISK_AGE60YR65YR_PFD1
+summary_riskgrouppf_first_dose65 - under 70,ATRISK_AGE65YR70YR_PFD1
+summary_riskgrouppf_first_dose70 - under 75,ATRISK_AGE70YR75YR_PFD1
+summary_riskgrouppf_first_dose75 - under 80,ATRISK_AGE75YR80YR_PFD1
+summary_riskgrouppf_first_dose80 - under 85,ATRISK_AGE80YR85YR_PFD1
+summary_riskgrouppf_first_dose85 plus,ATRISK_AGE85PL_PFD1
+summarypf_second_dose0 - under 16,AGE0YR16YR_PFD2
+summarypf_second_dose16 - under 30,AGE16YR30YR_PFD2
+summarypf_second_dose30 - under 40,AGE30YR40YR_PFD2
+summarypf_second_dose40 - under 50,AGE40YR50YR_PFD2
+summarypf_second_dose50 - under 55,AGE50YR55YR_PFD2
+summarypf_second_dose55 - under 60,AGE55YR60YR_PFD2
+summarypf_second_dose60 - under 65,AGE60YR65YR_PFD2
+summarypf_second_dose65 - under 70,AGE65YR70YR_PFD2
+summarypf_second_dose70 - under 75,AGE70YR75YR_PFD2
+summarypf_second_dose75 - under 80,AGE75YR80YR_PFD2
+summarypf_second_dose80 - under 85,AGE80YR85YR_PFD2
+summarypf_second_dose85 plus,AGE85PL_PFD2
+summary_riskgrouppf_second_dose0 - under 16,ATRISK_AGE0YR16YR_PFD2
+summary_riskgrouppf_second_dose16 - under 30,ATRISK_AGE16YR30YR_PFD2
+summary_riskgrouppf_second_dose30 - under 40,ATRISK_AGE30YR40YR_PFD2
+summary_riskgrouppf_second_dose40 - under 50,ATRISK_AGE40YR50YR_PFD2
+summary_riskgrouppf_second_dose50 - under 55,ATRISK_AGE50YR55YR_PFD2
+summary_riskgrouppf_second_dose55 - under 60,ATRISK_AGE55YR60YR_PFD2
+summary_riskgrouppf_second_dose60 - under 65,ATRISK_AGE60YR65YR_PFD2
+summary_riskgrouppf_second_dose65 - under 70,ATRISK_AGE65YR70YR_PFD2
+summary_riskgrouppf_second_dose70 - under 75,ATRISK_AGE70YR75YR_PFD2
+summary_riskgrouppf_second_dose75 - under 80,ATRISK_AGE75YR80YR_PFD2
+summary_riskgrouppf_second_dose80 - under 85,ATRISK_AGE80YR85YR_PFD2
+summary_riskgrouppf_second_dose85 plus,ATRISK_AGE85PL_PFD2
+summarymo_first_dose0 - under 16,AGE0YR16YR_MOD1
+summarymo_first_dose16 - under 30,AGE16YR30YR_MOD1
+summarymo_first_dose30 - under 40,AGE30YR40YR_MOD1
+summarymo_first_dose40 - under 50,AGE40YR50YR_MOD1
+summarymo_first_dose50 - under 55,AGE50YR55YR_MOD1
+summarymo_first_dose55 - under 60,AGE55YR60YR_MOD1
+summarymo_first_dose60 - under 65,AGE60YR65YR_MOD1
+summarymo_first_dose65 - under 70,AGE65YR70YR_MOD1
+summarymo_first_dose70 - under 75,AGE70YR75YR_MOD1
+summarymo_first_dose75 - under 80,AGE75YR80YR_MOD1
+summarymo_first_dose80 - under 85,AGE80YR85YR_MOD1
+summarymo_first_dose85 plus,AGE85PL_MOD1
+summary_riskgroupmo_first_dose0 - under 16,ATRISK_AGE0YR16YR_MOD1
+summary_riskgroupmo_first_dose16 - under 30,ATRISK_AGE16YR30YR_MOD1
+summary_riskgroupmo_first_dose30 - under 40,ATRISK_AGE30YR40YR_MOD1
+summary_riskgroupmo_first_dose40 - under 50,ATRISK_AGE40YR50YR_MOD1
+summary_riskgroupmo_first_dose50 - under 55,ATRISK_AGE50YR55YR_MOD1
+summary_riskgroupmo_first_dose55 - under 60,ATRISK_AGE55YR60YR_MOD1
+summary_riskgroupmo_first_dose60 - under 65,ATRISK_AGE60YR65YR_MOD1
+summary_riskgroupmo_first_dose65 - under 70,ATRISK_AGE65YR70YR_MOD1
+summary_riskgroupmo_first_dose70 - under 75,ATRISK_AGE70YR75YR_MOD1
+summary_riskgroupmo_first_dose75 - under 80,ATRISK_AGE75YR80YR_MOD1
+summary_riskgroupmo_first_dose80 - under 85,ATRISK_AGE80YR85YR_MOD1
+summary_riskgroupmo_first_dose85 plus,ATRISK_AGE85PL_MOD1
+summarymo_second_dose0 - under 16,AGE0YR16YR_MOD2
+summarymo_second_dose16 - under 30,AGE16YR30YR_MOD2
+summarymo_second_dose30 - under 40,AGE30YR40YR_MOD2
+summarymo_second_dose40 - under 50,AGE40YR50YR_MOD2
+summarymo_second_dose50 - under 55,AGE50YR55YR_MOD2
+summarymo_second_dose55 - under 60,AGE55YR60YR_MOD2
+summarymo_second_dose60 - under 65,AGE60YR65YR_MOD2
+summarymo_second_dose65 - under 70,AGE65YR70YR_MOD2
+summarymo_second_dose70 - under 75,AGE70YR75YR_MOD2
+summarymo_second_dose75 - under 80,AGE75YR80YR_MOD2
+summarymo_second_dose80 - under 85,AGE80YR85YR_MOD2
+summarymo_second_dose85 plus,AGE85PL_MOD2
+summary_riskgroupmo_second_dose0 - under 16,ATRISK_AGE0YR16YR_MOD2
+summary_riskgroupmo_second_dose16 - under 30,ATRISK_AGE16YR30YR_MOD2
+summary_riskgroupmo_second_dose30 - under 40,ATRISK_AGE30YR40YR_MOD2
+summary_riskgroupmo_second_dose40 - under 50,ATRISK_AGE40YR50YR_MOD2
+summary_riskgroupmo_second_dose50 - under 55,ATRISK_AGE50YR55YR_MOD2
+summary_riskgroupmo_second_dose55 - under 60,ATRISK_AGE55YR60YR_MOD2
+summary_riskgroupmo_second_dose60 - under 65,ATRISK_AGE60YR65YR_MOD2
+summary_riskgroupmo_second_dose65 - under 70,ATRISK_AGE65YR70YR_MOD2
+summary_riskgroupmo_second_dose70 - under 75,ATRISK_AGE70YR75YR_MOD2
+summary_riskgroupmo_second_dose75 - under 80,ATRISK_AGE75YR80YR_MOD2
+summary_riskgroupmo_second_dose80 - under 85,ATRISK_AGE80YR85YR_MOD2
+summary_riskgroupmo_second_dose85 plus,ATRISK_AGE85PL_MOD2
+summaryany_first_dose0 - under 16,AGE0YR16YR_VTNSD1
+summaryany_first_dose16 - under 30,AGE16YR30YR_VTNSD1
+summaryany_first_dose30 - under 40,AGE30YR40YR_VTNSD1
+summaryany_first_dose40 - under 50,AGE40YR50YR_VTNSD1
+summaryany_first_dose50 - under 55,AGE50YR55YR_VTNSD1
+summaryany_first_dose55 - under 60,AGE55YR60YR_VTNSD1
+summaryany_first_dose60 - under 65,AGE60YR65YR_VTNSD1
+summaryany_first_dose65 - under 70,AGE65YR70YR_VTNSD1
+summaryany_first_dose70 - under 75,AGE70YR75YR_VTNSD1
+summaryany_first_dose75 - under 80,AGE75YR80YR_VTNSD1
+summaryany_first_dose80 - under 85,AGE80YR85YR_VTNSD1
+summaryany_first_dose85 plus,AGE85PL_VTNSD1
+summary_riskgroupany_first_dose0 - under 16,ATRISK_AGE0YR16YR_VTNSD1
+summary_riskgroupany_first_dose16 - under 30,ATRISK_AGE16YR30YR_VTNSD1
+summary_riskgroupany_first_dose30 - under 40,ATRISK_AGE30YR40YR_VTNSD1
+summary_riskgroupany_first_dose40 - under 50,ATRISK_AGE40YR50YR_VTNSD1
+summary_riskgroupany_first_dose50 - under 55,ATRISK_AGE50YR55YR_VTNSD1
+summary_riskgroupany_first_dose55 - under 60,ATRISK_AGE55YR60YR_VTNSD1
+summary_riskgroupany_first_dose60 - under 65,ATRISK_AGE60YR65YR_VTNSD1
+summary_riskgroupany_first_dose65 - under 70,ATRISK_AGE65YR70YR_VTNSD1
+summary_riskgroupany_first_dose70 - under 75,ATRISK_AGE70YR75YR_VTNSD1
+summary_riskgroupany_first_dose75 - under 80,ATRISK_AGE75YR80YR_VTNSD1
+summary_riskgroupany_first_dose80 - under 85,ATRISK_AGE80YR85YR_VTNSD1
+summary_riskgroupany_first_dose85 plus,ATRISK_AGE85PL_VTNSD1
+summaryany_second_dose0 - under 16,AGE0YR16YR_VTNSD2
+summaryany_second_dose16 - under 30,AGE16YR30YR_VTNSD2
+summaryany_second_dose30 - under 40,AGE30YR40YR_VTNSD2
+summaryany_second_dose40 - under 50,AGE40YR50YR_VTNSD2
+summaryany_second_dose50 - under 55,AGE50YR55YR_VTNSD2
+summaryany_second_dose55 - under 60,AGE55YR60YR_VTNSD2
+summaryany_second_dose60 - under 65,AGE60YR65YR_VTNSD2
+summaryany_second_dose65 - under 70,AGE65YR70YR_VTNSD2
+summaryany_second_dose70 - under 75,AGE70YR75YR_VTNSD2
+summaryany_second_dose75 - under 80,AGE75YR80YR_VTNSD2
+summaryany_second_dose80 - under 85,AGE80YR85YR_VTNSD2
+summaryany_second_dose85 plus,AGE85PL_VTNSD2
+summary_riskgroupany_second_dose0 - under 16,ATRISK_AGE0YR16YR_VTNSD2
+summary_riskgroupany_second_dose16 - under 30,ATRISK_AGE16YR30YR_VTNSD2
+summary_riskgroupany_second_dose30 - under 40,ATRISK_AGE30YR40YR_VTNSD2
+summary_riskgroupany_second_dose40 - under 50,ATRISK_AGE40YR50YR_VTNSD2
+summary_riskgroupany_second_dose50 - under 55,ATRISK_AGE50YR55YR_VTNSD2
+summary_riskgroupany_second_dose55 - under 60,ATRISK_AGE55YR60YR_VTNSD2
+summary_riskgroupany_second_dose60 - under 65,ATRISK_AGE60YR65YR_VTNSD2
+summary_riskgroupany_second_dose65 - under 70,ATRISK_AGE65YR70YR_VTNSD2
+summary_riskgroupany_second_dose70 - under 75,ATRISK_AGE70YR75YR_VTNSD2
+summary_riskgroupany_second_dose75 - under 80,ATRISK_AGE75YR80YR_VTNSD2
+summary_riskgroupany_second_dose80 - under 85,ATRISK_AGE80YR85YR_VTNSD2
+summary_riskgroupany_second_dose85 plus,ATRISK_AGE85PL_VTNSD2
+summarynx_first_dose0 - under 16,AGE0YR16YR_NXD1
+summarynx_first_dose16 - under 30,AGE16YR30YR_NXD1
+summarynx_first_dose30 - under 40,AGE30YR40YR_NXD1
+summarynx_first_dose40 - under 50,AGE40YR50YR_NXD1
+summarynx_first_dose50 - under 55,AGE50YR55YR_NXD1
+summarynx_first_dose55 - under 60,AGE55YR60YR_NXD1
+summarynx_first_dose60 - under 65,AGE60YR65YR_NXD1
+summarynx_first_dose65 - under 70,AGE65YR70YR_NXD1
+summarynx_first_dose70 - under 75,AGE70YR75YR_NXD1
+summarynx_first_dose75 - under 80,AGE75YR80YR_NXD1
+summarynx_first_dose80 - under 85,AGE80YR85YR_NXD1
+summarynx_first_dose85 plus,AGE85PL_NXD1
+summary_riskgroupnx_first_dose0 - under 16,ATRISK_AGE0YR16YR_NXD1
+summary_riskgroupnx_first_dose16 - under 30,ATRISK_AGE16YR30YR_NXD1
+summary_riskgroupnx_first_dose30 - under 40,ATRISK_AGE30YR40YR_NXD1
+summary_riskgroupnx_first_dose40 - under 50,ATRISK_AGE40YR50YR_NXD1
+summary_riskgroupnx_first_dose50 - under 55,ATRISK_AGE50YR55YR_NXD1
+summary_riskgroupnx_first_dose55 - under 60,ATRISK_AGE55YR60YR_NXD1
+summary_riskgroupnx_first_dose60 - under 65,ATRISK_AGE60YR65YR_NXD1
+summary_riskgroupnx_first_dose65 - under 70,ATRISK_AGE65YR70YR_NXD1
+summary_riskgroupnx_first_dose70 - under 75,ATRISK_AGE70YR75YR_NXD1
+summary_riskgroupnx_first_dose75 - under 80,ATRISK_AGE75YR80YR_NXD1
+summary_riskgroupnx_first_dose80 - under 85,ATRISK_AGE80YR85YR_NXD1
+summary_riskgroupnx_first_dose85 plus,ATRISK_AGE85PL_NXD1
+summarynx_second_dose0 - under 16,AGE0YR16YR_NXD2
+summarynx_second_dose16 - under 30,AGE16YR30YR_NXD2
+summarynx_second_dose30 - under 40,AGE30YR40YR_NXD2
+summarynx_second_dose40 - under 50,AGE40YR50YR_NXD2
+summarynx_second_dose50 - under 55,AGE50YR55YR_NXD2
+summarynx_second_dose55 - under 60,AGE55YR60YR_NXD2
+summarynx_second_dose60 - under 65,AGE60YR65YR_NXD2
+summarynx_second_dose65 - under 70,AGE65YR70YR_NXD2
+summarynx_second_dose70 - under 75,AGE70YR75YR_NXD2
+summarynx_second_dose75 - under 80,AGE75YR80YR_NXD2
+summarynx_second_dose80 - under 85,AGE80YR85YR_NXD2
+summarynx_second_dose85 plus,AGE85PL_NXD2
+summary_riskgroupnx_second_dose0 - under 16,ATRISK_AGE0YR16YR_NXD2
+summary_riskgroupnx_second_dose16 - under 30,ATRISK_AGE16YR30YR_NXD2
+summary_riskgroupnx_second_dose30 - under 40,ATRISK_AGE30YR40YR_NXD2
+summary_riskgroupnx_second_dose40 - under 50,ATRISK_AGE40YR50YR_NXD2
+summary_riskgroupnx_second_dose50 - under 55,ATRISK_AGE50YR55YR_NXD2
+summary_riskgroupnx_second_dose55 - under 60,ATRISK_AGE55YR60YR_NXD2
+summary_riskgroupnx_second_dose60 - under 65,ATRISK_AGE60YR65YR_NXD2
+summary_riskgroupnx_second_dose65 - under 70,ATRISK_AGE65YR70YR_NXD2
+summary_riskgroupnx_second_dose70 - under 75,ATRISK_AGE70YR75YR_NXD2
+summary_riskgroupnx_second_dose75 - under 80,ATRISK_AGE75YR80YR_NXD2
+summary_riskgroupnx_second_dose80 - under 85,ATRISK_AGE80YR85YR_NXD2
+summary_riskgroupnx_second_dose85 plus,ATRISK_AGE85PL_NXD2
+summaryjn_first_dose0 - under 16,AGE0YR16YR_JND1
+summaryjn_first_dose16 - under 30,AGE16YR30YR_JND1
+summaryjn_first_dose30 - under 40,AGE30YR40YR_JND1
+summaryjn_first_dose40 - under 50,AGE40YR50YR_JND1
+summaryjn_first_dose50 - under 55,AGE50YR55YR_JND1
+summaryjn_first_dose55 - under 60,AGE55YR60YR_JND1
+summaryjn_first_dose60 - under 65,AGE60YR65YR_JND1
+summaryjn_first_dose65 - under 70,AGE65YR70YR_JND1
+summaryjn_first_dose70 - under 75,AGE70YR75YR_JND1
+summaryjn_first_dose75 - under 80,AGE75YR80YR_JND1
+summaryjn_first_dose80 - under 85,AGE80YR85YR_JND1
+summaryjn_first_dose85 plus,AGE85PL_JND1
+summary_riskgroupjn_first_dose0 - under 16,ATRISK_AGE0YR16YR_JND1
+summary_riskgroupjn_first_dose16 - under 30,ATRISK_AGE16YR30YR_JND1
+summary_riskgroupjn_first_dose30 - under 40,ATRISK_AGE30YR40YR_JND1
+summary_riskgroupjn_first_dose40 - under 50,ATRISK_AGE40YR50YR_JND1
+summary_riskgroupjn_first_dose50 - under 55,ATRISK_AGE50YR55YR_JND1
+summary_riskgroupjn_first_dose55 - under 60,ATRISK_AGE55YR60YR_JND1
+summary_riskgroupjn_first_dose60 - under 65,ATRISK_AGE60YR65YR_JND1
+summary_riskgroupjn_first_dose65 - under 70,ATRISK_AGE65YR70YR_JND1
+summary_riskgroupjn_first_dose70 - under 75,ATRISK_AGE70YR75YR_JND1
+summary_riskgroupjn_first_dose75 - under 80,ATRISK_AGE75YR80YR_JND1
+summary_riskgroupjn_first_dose80 - under 85,ATRISK_AGE80YR85YR_JND1
+summary_riskgroupjn_first_dose85 plus,ATRISK_AGE85PL_JND1
+summaryjn_second_dose0 - under 16,AGE0YR16YR_JND2
+summaryjn_second_dose16 - under 30,AGE16YR30YR_JND2
+summaryjn_second_dose30 - under 40,AGE30YR40YR_JND2
+summaryjn_second_dose40 - under 50,AGE40YR50YR_JND2
+summaryjn_second_dose50 - under 55,AGE50YR55YR_JND2
+summaryjn_second_dose55 - under 60,AGE55YR60YR_JND2
+summaryjn_second_dose60 - under 65,AGE60YR65YR_JND2
+summaryjn_second_dose65 - under 70,AGE65YR70YR_JND2
+summaryjn_second_dose70 - under 75,AGE70YR75YR_JND2
+summaryjn_second_dose75 - under 80,AGE75YR80YR_JND2
+summaryjn_second_dose80 - under 85,AGE80YR85YR_JND2
+summaryjn_second_dose85 plus,AGE85PL_JND2
+summary_riskgroupjn_second_dose0 - under 16,ATRISK_AGE0YR16YR_JND2
+summary_riskgroupjn_second_dose16 - under 30,ATRISK_AGE16YR30YR_JND2
+summary_riskgroupjn_second_dose30 - under 40,ATRISK_AGE30YR40YR_JND2
+summary_riskgroupjn_second_dose40 - under 50,ATRISK_AGE40YR50YR_JND2
+summary_riskgroupjn_second_dose50 - under 55,ATRISK_AGE50YR55YR_JND2
+summary_riskgroupjn_second_dose55 - under 60,ATRISK_AGE55YR60YR_JND2
+summary_riskgroupjn_second_dose60 - under 65,ATRISK_AGE60YR65YR_JND2
+summary_riskgroupjn_second_dose65 - under 70,ATRISK_AGE65YR70YR_JND2
+summary_riskgroupjn_second_dose70 - under 75,ATRISK_AGE70YR75YR_JND2
+summary_riskgroupjn_second_dose75 - under 80,ATRISK_AGE75YR80YR_JND2
+summary_riskgroupjn_second_dose80 - under 85,ATRISK_AGE80YR85YR_JND2
+summary_riskgroupjn_second_dose85 plus,ATRISK_AGE85PL_JND2
+summarygs_first_dose0 - under 16,AGE0YR16YR_GSKD1
+summarygs_first_dose16 - under 30,AGE16YR30YR_GSKD1
+summarygs_first_dose30 - under 40,AGE30YR40YR_GSKD1
+summarygs_first_dose40 - under 50,AGE40YR50YR_GSKD1
+summarygs_first_dose50 - under 55,AGE50YR55YR_GSKD1
+summarygs_first_dose55 - under 60,AGE55YR60YR_GSKD1
+summarygs_first_dose60 - under 65,AGE60YR65YR_GSKD1
+summarygs_first_dose65 - under 70,AGE65YR70YR_GSKD1
+summarygs_first_dose70 - under 75,AGE70YR75YR_GSKD1
+summarygs_first_dose75 - under 80,AGE75YR80YR_GSKD1
+summarygs_first_dose80 - under 85,AGE80YR85YR_GSKD1
+summarygs_first_dose85 plus,AGE85PL_GSKD1
+summary_riskgroupgs_first_dose0 - under 16,ATRISK_AGE0YR16YR_GSKD1
+summary_riskgroupgs_first_dose16 - under 30,ATRISK_AGE16YR30YR_GSKD1
+summary_riskgroupgs_first_dose30 - under 40,ATRISK_AGE30YR40YR_GSKD1
+summary_riskgroupgs_first_dose40 - under 50,ATRISK_AGE40YR50YR_GSKD1
+summary_riskgroupgs_first_dose50 - under 55,ATRISK_AGE50YR55YR_GSKD1
+summary_riskgroupgs_first_dose55 - under 60,ATRISK_AGE55YR60YR_GSKD1
+summary_riskgroupgs_first_dose60 - under 65,ATRISK_AGE60YR65YR_GSKD1
+summary_riskgroupgs_first_dose65 - under 70,ATRISK_AGE65YR70YR_GSKD1
+summary_riskgroupgs_first_dose70 - under 75,ATRISK_AGE70YR75YR_GSKD1
+summary_riskgroupgs_first_dose75 - under 80,ATRISK_AGE75YR80YR_GSKD1
+summary_riskgroupgs_first_dose80 - under 85,ATRISK_AGE80YR85YR_GSKD1
+summary_riskgroupgs_first_dose85 plus,ATRISK_AGE85PL_GSKD1
+summarygs_second_dose0 - under 16,AGE0YR16YR_GSKD2
+summarygs_second_dose16 - under 30,AGE16YR30YR_GSKD2
+summarygs_second_dose30 - under 40,AGE30YR40YR_GSKD2
+summarygs_second_dose40 - under 50,AGE40YR50YR_GSKD2
+summarygs_second_dose50 - under 55,AGE50YR55YR_GSKD2
+summarygs_second_dose55 - under 60,AGE55YR60YR_GSKD2
+summarygs_second_dose60 - under 65,AGE60YR65YR_GSKD2
+summarygs_second_dose65 - under 70,AGE65YR70YR_GSKD2
+summarygs_second_dose70 - under 75,AGE70YR75YR_GSKD2
+summarygs_second_dose75 - under 80,AGE75YR80YR_GSKD2
+summarygs_second_dose80 - under 85,AGE80YR85YR_GSKD2
+summarygs_second_dose85 plus,AGE85PL_GSKD2
+summary_riskgroupgs_second_dose0 - under 16,ATRISK_AGE0YR16YR_GSKD2
+summary_riskgroupgs_second_dose16 - under 30,ATRISK_AGE16YR30YR_GSKD2
+summary_riskgroupgs_second_dose30 - under 40,ATRISK_AGE30YR40YR_GSKD2
+summary_riskgroupgs_second_dose40 - under 50,ATRISK_AGE40YR50YR_GSKD2
+summary_riskgroupgs_second_dose50 - under 55,ATRISK_AGE50YR55YR_GSKD2
+summary_riskgroupgs_second_dose55 - under 60,ATRISK_AGE55YR60YR_GSKD2
+summary_riskgroupgs_second_dose60 - under 65,ATRISK_AGE60YR65YR_GSKD2
+summary_riskgroupgs_second_dose65 - under 70,ATRISK_AGE65YR70YR_GSKD2
+summary_riskgroupgs_second_dose70 - under 75,ATRISK_AGE70YR75YR_GSKD2
+summary_riskgroupgs_second_dose75 - under 80,ATRISK_AGE75YR80YR_GSKD2
+summary_riskgroupgs_second_dose80 - under 85,ATRISK_AGE80YR85YR_GSKD2
+summary_riskgroupgs_second_dose85 plus,ATRISK_AGE85PL_GSKD2
+summaryvl_first_dose0 - under 16,AGE0YR16YR_VLD1
+summaryvl_first_dose16 - under 30,AGE16YR30YR_VLD1
+summaryvl_first_dose30 - under 40,AGE30YR40YR_VLD1
+summaryvl_first_dose40 - under 50,AGE40YR50YR_VLD1
+summaryvl_first_dose50 - under 55,AGE50YR55YR_VLD1
+summaryvl_first_dose55 - under 60,AGE55YR60YR_VLD1
+summaryvl_first_dose60 - under 65,AGE60YR65YR_VLD1
+summaryvl_first_dose65 - under 70,AGE65YR70YR_VLD1
+summaryvl_first_dose70 - under 75,AGE70YR75YR_VLD1
+summaryvl_first_dose75 - under 80,AGE75YR80YR_VLD1
+summaryvl_first_dose80 - under 85,AGE80YR85YR_VLD1
+summaryvl_first_dose85 plus,AGE85PL_VLD1
+summary_riskgroupvl_first_dose0 - under 16,ATRISK_AGE0YR16YR_VLD1
+summary_riskgroupvl_first_dose16 - under 30,ATRISK_AGE16YR30YR_VLD1
+summary_riskgroupvl_first_dose30 - under 40,ATRISK_AGE30YR40YR_VLD1
+summary_riskgroupvl_first_dose40 - under 50,ATRISK_AGE40YR50YR_VLD1
+summary_riskgroupvl_first_dose50 - under 55,ATRISK_AGE50YR55YR_VLD1
+summary_riskgroupvl_first_dose55 - under 60,ATRISK_AGE55YR60YR_VLD1
+summary_riskgroupvl_first_dose60 - under 65,ATRISK_AGE60YR65YR_VLD1
+summary_riskgroupvl_first_dose65 - under 70,ATRISK_AGE65YR70YR_VLD1
+summary_riskgroupvl_first_dose70 - under 75,ATRISK_AGE70YR75YR_VLD1
+summary_riskgroupvl_first_dose75 - under 80,ATRISK_AGE75YR80YR_VLD1
+summary_riskgroupvl_first_dose80 - under 85,ATRISK_AGE80YR85YR_VLD1
+summary_riskgroupvl_first_dose85 plus,ATRISK_AGE85PL_VLD1
+summaryvl_second_dose0 - under 16,AGE0YR16YR_VLD2
+summaryvl_second_dose16 - under 30,AGE16YR30YR_VLD2
+summaryvl_second_dose30 - under 40,AGE30YR40YR_VLD2
+summaryvl_second_dose40 - under 50,AGE40YR50YR_VLD2
+summaryvl_second_dose50 - under 55,AGE50YR55YR_VLD2
+summaryvl_second_dose55 - under 60,AGE55YR60YR_VLD2
+summaryvl_second_dose60 - under 65,AGE60YR65YR_VLD2
+summaryvl_second_dose65 - under 70,AGE65YR70YR_VLD2
+summaryvl_second_dose70 - under 75,AGE70YR75YR_VLD2
+summaryvl_second_dose75 - under 80,AGE75YR80YR_VLD2
+summaryvl_second_dose80 - under 85,AGE80YR85YR_VLD2
+summaryvl_second_dose85 plus,AGE85PL_VLD2
+summary_riskgroupvl_second_dose0 - under 16,ATRISK_AGE0YR16YR_VLD2
+summary_riskgroupvl_second_dose16 - under 30,ATRISK_AGE16YR30YR_VLD2
+summary_riskgroupvl_second_dose30 - under 40,ATRISK_AGE30YR40YR_VLD2
+summary_riskgroupvl_second_dose40 - under 50,ATRISK_AGE40YR50YR_VLD2
+summary_riskgroupvl_second_dose50 - under 55,ATRISK_AGE50YR55YR_VLD2
+summary_riskgroupvl_second_dose55 - under 60,ATRISK_AGE55YR60YR_VLD2
+summary_riskgroupvl_second_dose60 - under 65,ATRISK_AGE60YR65YR_VLD2
+summary_riskgroupvl_second_dose65 - under 70,ATRISK_AGE65YR70YR_VLD2
+summary_riskgroupvl_second_dose70 - under 75,ATRISK_AGE70YR75YR_VLD2
+summary_riskgroupvl_second_dose75 - under 80,ATRISK_AGE75YR80YR_VLD2
+summary_riskgroupvl_second_dose80 - under 85,ATRISK_AGE80YR85YR_VLD2
+summary_riskgroupvl_second_dose85 plus,ATRISK_AGE85PL_VLD2
+carerpopulation16 - under 50,CARER_AGE16YR50YR_TP
+carerpopulation50 - under 65,CARER_AGE50YR65YR_TP
+carerpopulation65 plus,CARER_AGE65PL_TP
+chdpopulation16 - under 40,CHD_AGE16YR40YR_TP
+chdpopulation40 - under 50,CHD_AGE40YR50YR_TP
+chdpopulation50 - under 65,CHD_AGE50YR65YR_TP
+chdpopulation65 plus,CHD_AGE65PL_TP
+ckdpopulation16 - under 40,CKD_AGE16YR40YR_TP
+ckdpopulation40 - under 50,CKD_AGE40YR50YR_TP
+ckdpopulation50 - under 65,CKD_AGE50YR65YR_TP
+ckdpopulation65 plus,CKD_AGE65PL_TP
+cldpopulation16 - under 40,CLD_AGE16YR40YR_TP
+cldpopulation40 - under 50,CLD_AGE40YR50YR_TP
+cldpopulation50 - under 65,CLD_AGE50YR65YR_TP
+cldpopulation65 plus,CLD_AGE65PL_TP
+cnspopulation16 - under 40,CND_AGE16YR40YR_TP
+cnspopulation40 - under 50,CND_AGE40YR50YR_TP
+cnspopulation50 - under 65,CND_AGE50YR65YR_TP
+cnspopulation65 plus,CND_AGE65PL_TP
+diabpopulation16 - under 40,DIAB_AGE16YR40YR_TP
+diabpopulation40 - under 50,DIAB_AGE40YR50YR_TP
+diabpopulation50 - under 65,DIAB_AGE50YR65YR_TP
+diabpopulation65 plus,DIAB_AGE65PL_TP
+hcw_carehomepopulation16 - under 50,SCW_CH_AGE16YR50YR_TP
+hcw_carehomepopulation50 - under 65,SCW_CH_AGE50YR65YR_TP
+hcw_carehomepopulation65 plus,SCW_CH_AGE65PL_TP
+hcw_domcarepopulation16 - under 50,SCW_DCP_AGE16YR50YR_TP
+hcw_domcarepopulation50 - under 65,SCW_DCP_AGE50YR65YR_TP
+hcw_domcarepopulation65 plus,SCW_DCP_AGE65PL_TP
+hcw_nursehomepopulation16 - under 50,SCW_NH_AGE16YR50YR_TP
+hcw_nursehomepopulation50 - under 65,SCW_NH_AGE50YR65YR_TP
+hcw_nursehomepopulation65 plus,SCW_NH_AGE65PL_TP
+hhldpopulation0 - under 16,HOUSE_AGE0YR16YR_TP
+hhldpopulation16 - under 50,HOUSE_AGE16YR50YR_TP
+hhldpopulation50 - under 65,HOUSE_AGE50YR65YR_TP
+hhldpopulation65 plus,HOUSE_AGE65PL_TP
+highrisk_shieldingpopulation0 - under 16,SHD_AGE0YR16YR_TP
+highrisk_shieldingpopulation16 - under 40,SHD_AGE16YR40YR_TP
+highrisk_shieldingpopulation40 - under 50,SHD_AGE40YR50YR_TP
+highrisk_shieldingpopulation50 - under 55,SHD_AGE50YR55YR_TP
+highrisk_shieldingpopulation55 - under 60,SHD_AGE55YR60YR_TP
+highrisk_shieldingpopulation60 - under 65,SHD_AGE60YR65YR_TP
+highrisk_shieldingpopulation65 - under 70,SHD_AGE65YR70YR_TP
+highrisk_shieldingpopulation70 - under 75,SHD_AGE70YR75YR_TP
+highrisk_shieldingpopulation75 - under 80,SHD_AGE75YR80YR_TP
+highrisk_shieldingpopulation80 - under 85,SHD_AGE80YR85YR_TP
+highrisk_shieldingpopulation85 plus,SHD_AGE85PL_TP
+immdxpopulation16 - under 40,IMM_AGE16YR40YR_TP
+immdxpopulation40 - under 50,IMM_AGE40YR50YR_TP
+immdxpopulation50 - under 65,IMM_AGE50YR65YR_TP
+immdxpopulation65 plus,IMM_AGE65PL_TP
+learndispopulation16 - under 40,LD_AGE16YR40YR_TP
+learndispopulation40 - under 50,LD_AGE40YR50YR_TP
+learndispopulation50 - under 65,LD_AGE50YR65YR_TP
+learndispopulation65 plus,LD_AGE65PL_TP
+longrespopulation16 - under 50,LS_AGE16YR50YR_TP
+mentalpopulation16 - under 40,SMI_AGE16YR40YR_TP
+mentalpopulation40 - under 50,SMI_AGE40YR50YR_TP
+mentalpopulation50 - under 65,SMI_AGE50YR65YR_TP
+mentalpopulation65 plus,SMI_AGE65PL_TP
+obesity_no_otherriskpopulation16 - under 40,BMINORISK_AGE16YR40YR_TP
+obesity_no_otherriskpopulation40 - under 50,BMINORISK_AGE40YR50YR_TP
+obesity_no_otherriskpopulation50 - under 65,BMINORISK_AGE50YR65YR_TP
+obesity_no_otherriskpopulation65 plus,BMINORISK_AGE65PL_TP
+obesity_otherriskpopulation16 - under 40,BMI_AGE16YR40YR_TP
+obesity_otherriskpopulation40 - under 50,BMI_AGE40YR50YR_TP
+obesity_otherriskpopulation50 - under 65,BMI_AGE50YR65YR_TP
+obesity_otherriskpopulation65 plus,BMI_AGE65PL_TP
+resppopulation16 - under 40,RESP_AGE16YR40YR_TP
+resppopulation40 - under 50,RESP_AGE40YR50YR_TP
+resppopulation50 - under 65,RESP_AGE50YR65YR_TP
+resppopulation65 plus,RESP_AGE65PL_TP
+splnpopulation16 - under 40,PNSPLEEN_AGE16YR40YR_TP
+splnpopulation40 - under 50,PNSPLEEN_AGE40YR50YR_TP
+splnpopulation50 - under 65,PNSPLEEN_AGE50YR65YR_TP
+splnpopulation65 plus,PNSPLEEN_AGE65PL_TP
+carerfirst_dose16 - under 50,CARER_AGE16YR50YR_NVD1
+carerfirst_dose50 - under 65,CARER_AGE50YR65YR_NVD1
+carerfirst_dose65 plus,CARER_AGE65PL_NVD1
+chdfirst_dose16 - under 40,CHD_AGE16YR40YR_NVD1
+chdfirst_dose40 - under 50,CHD_AGE40YR50YR_NVD1
+chdfirst_dose50 - under 65,CHD_AGE50YR65YR_NVD1
+chdfirst_dose65 plus,CHD_AGE65PL_NVD1
+ckdfirst_dose16 - under 40,CKD_AGE16YR40YR_NVD1
+ckdfirst_dose40 - under 50,CKD_AGE40YR50YR_NVD1
+ckdfirst_dose50 - under 65,CKD_AGE50YR65YR_NVD1
+ckdfirst_dose65 plus,CKD_AGE65PL_NVD1
+cldfirst_dose16 - under 40,CLD_AGE16YR40YR_NVD1
+cldfirst_dose40 - under 50,CLD_AGE40YR50YR_NVD1
+cldfirst_dose50 - under 65,CLD_AGE50YR65YR_NVD1
+cldfirst_dose65 plus,CLD_AGE65PL_NVD1
+cnsfirst_dose16 - under 40,CND_AGE16YR40YR_NVD1
+cnsfirst_dose40 - under 50,CND_AGE40YR50YR_NVD1
+cnsfirst_dose50 - under 65,CND_AGE50YR65YR_NVD1
+cnsfirst_dose65 plus,CND_AGE65PL_NVD1
+diabfirst_dose16 - under 40,DIAB_AGE16YR40YR_NVD1
+diabfirst_dose40 - under 50,DIAB_AGE40YR50YR_NVD1
+diabfirst_dose50 - under 65,DIAB_AGE50YR65YR_NVD1
+diabfirst_dose65 plus,DIAB_AGE65PL_NVD1
+hcw_carehomefirst_dose16 - under 50,SCW_CH_AGE16YR50YR_NVD1
+hcw_carehomefirst_dose50 - under 65,SCW_CH_AGE50YR65YR_NVD1
+hcw_carehomefirst_dose65 plus,SCW_CH_AGE65PL_NVD1
+hcw_domcarefirst_dose16 - under 50,SCW_DCP_AGE16YR50YR_NVD1
+hcw_domcarefirst_dose50 - under 65,SCW_DCP_AGE50YR65YR_NVD1
+hcw_domcarefirst_dose65 plus,SCW_DCP_AGE65PL_NVD1
+hcw_nursehomefirst_dose16 - under 50,SCW_NH_AGE16YR50YR_NVD1
+hcw_nursehomefirst_dose50 - under 65,SCW_NH_AGE50YR65YR_NVD1
+hcw_nursehomefirst_dose65 plus,SCW_NH_AGE65PL_NVD1
+hhldfirst_dose0 - under 16,HOUSE_AGE0YR16YR_NVD1
+hhldfirst_dose16 - under 50,HOUSE_AGE16YR50YR_NVD1
+hhldfirst_dose50 - under 65,HOUSE_AGE50YR65YR_NVD1
+hhldfirst_dose65 plus,HOUSE_AGE65PL_NVD1
+highrisk_shieldingfirst_dose0 - under 16,SHD_AGE0YR16YR_NVD1
+highrisk_shieldingfirst_dose16 - under 40,SHD_AGE16YR40YR_NVD1
+highrisk_shieldingfirst_dose40 - under 50,SHD_AGE40YR50YR_NVD1
+highrisk_shieldingfirst_dose50 - under 55,SHD_AGE50YR55YR_NVD1
+highrisk_shieldingfirst_dose55 - under 60,SHD_AGE55YR60YR_NVD1
+highrisk_shieldingfirst_dose60 - under 65,SHD_AGE60YR65YR_NVD1
+highrisk_shieldingfirst_dose65 - under 70,SHD_AGE65YR70YR_NVD1
+highrisk_shieldingfirst_dose70 - under 75,SHD_AGE70YR75YR_NVD1
+highrisk_shieldingfirst_dose75 - under 80,SHD_AGE75YR80YR_NVD1
+highrisk_shieldingfirst_dose80 - under 85,SHD_AGE80YR85YR_NVD1
+highrisk_shieldingfirst_dose85 plus,SHD_AGE85PL_NVD1
+immdxfirst_dose16 - under 40,IMM_AGE16YR40YR_NVD1
+immdxfirst_dose40 - under 50,IMM_AGE40YR50YR_NVD1
+immdxfirst_dose50 - under 65,IMM_AGE50YR65YR_NVD1
+immdxfirst_dose65 plus,IMM_AGE65PL_NVD1
+learndisfirst_dose16 - under 40,LD_AGE16YR40YR_NVD1
+learndisfirst_dose40 - under 50,LD_AGE40YR50YR_NVD1
+learndisfirst_dose50 - under 65,LD_AGE50YR65YR_NVD1
+learndisfirst_dose65 plus,LD_AGE65PL_NVD1
+longresfirst_dose16 - under 50,LS_AGE16YR50YR_NVD1
+longrespopulation50 - under 65,LS_AGE50YR65YR_TP
+longrespopulation65 plus,LS_AGE65PL_TP
+longresfirst_dose50 - under 65,LS_AGE50YR65YR_NVD1
+longresfirst_dose65 plus,LS_AGE65PL_NVD1
+longressecond_dose50 - under 65,LS_AGE50YR65YR_NVD2
+longressecond_dose65 plus,LS_AGE65PL_NVD2
+mentalfirst_dose16 - under 40,SMI_AGE16YR40YR_NVD1
+mentalfirst_dose40 - under 50,SMI_AGE40YR50YR_NVD1
+mentalfirst_dose50 - under 65,SMI_AGE50YR65YR_NVD1
+mentalfirst_dose65 plus,SMI_AGE65PL_NVD1
+obesity_no_otherriskfirst_dose16 - under 40,BMINORISK_AGE16YR40YR_NVD1
+obesity_no_otherriskfirst_dose40 - under 50,BMINORISK_AGE40YR50YR_NVD1
+obesity_no_otherriskfirst_dose50 - under 65,BMINORISK_AGE50YR65YR_NVD1
+obesity_no_otherriskfirst_dose65 plus,BMINORISK_AGE65PL_NVD1
+obesity_otherriskfirst_dose16 - under 40,BMI_AGE16YR40YR_NVD1
+obesity_otherriskfirst_dose40 - under 50,BMI_AGE40YR50YR_NVD1
+obesity_otherriskfirst_dose50 - under 65,BMI_AGE50YR65YR_NVD1
+obesity_otherriskfirst_dose65 plus,BMI_AGE65PL_NVD1
+respfirst_dose16 - under 40,RESP_AGE16YR40YR_NVD1
+respfirst_dose40 - under 50,RESP_AGE40YR50YR_NVD1
+respfirst_dose50 - under 65,RESP_AGE50YR65YR_NVD1
+respfirst_dose65 plus,RESP_AGE65PL_NVD1
+splnfirst_dose16 - under 40,PNSPLEEN_AGE16YR40YR_NVD1
+splnfirst_dose40 - under 50,PNSPLEEN_AGE40YR50YR_NVD1
+splnfirst_dose50 - under 65,PNSPLEEN_AGE50YR65YR_NVD1
+splnfirst_dose65 plus,PNSPLEEN_AGE65PL_NVD1
+carersecond_dose16 - under 50,CARER_AGE16YR50YR_NVD2
+carersecond_dose50 - under 65,CARER_AGE50YR65YR_NVD2
+carersecond_dose65 plus,CARER_AGE65PL_NVD2
+chdsecond_dose16 - under 40,CHD_AGE16YR40YR_NVD2
+chdsecond_dose40 - under 50,CHD_AGE40YR50YR_NVD2
+chdsecond_dose50 - under 65,CHD_AGE50YR65YR_NVD2
+chdsecond_dose65 plus,CHD_AGE65PL_NVD2
+ckdsecond_dose16 - under 40,CKD_AGE16YR40YR_NVD2
+ckdsecond_dose40 - under 50,CKD_AGE40YR50YR_NVD2
+ckdsecond_dose50 - under 65,CKD_AGE50YR65YR_NVD2
+ckdsecond_dose65 plus,CKD_AGE65PL_NVD2
+cldsecond_dose16 - under 40,CLD_AGE16YR40YR_NVD2
+cldsecond_dose40 - under 50,CLD_AGE40YR50YR_NVD2
+cldsecond_dose50 - under 65,CLD_AGE50YR65YR_NVD2
+cldsecond_dose65 plus,CLD_AGE65PL_NVD2
+cnssecond_dose16 - under 40,CND_AGE16YR40YR_NVD2
+cnssecond_dose40 - under 50,CND_AGE40YR50YR_NVD2
+cnssecond_dose50 - under 65,CND_AGE50YR65YR_NVD2
+cnssecond_dose65 plus,CND_AGE65PL_NVD2
+diabsecond_dose16 - under 40,DIAB_AGE16YR40YR_NVD2
+diabsecond_dose40 - under 50,DIAB_AGE40YR50YR_NVD2
+diabsecond_dose50 - under 65,DIAB_AGE50YR65YR_NVD2
+diabsecond_dose65 plus,DIAB_AGE65PL_NVD2
+hcw_carehomesecond_dose16 - under 50,SCW_CH_AGE16YR50YR_NVD2
+hcw_carehomesecond_dose50 - under 65,SCW_CH_AGE50YR65YR_NVD2
+hcw_carehomesecond_dose65 plus,SCW_CH_AGE65PL_NVD2
+hcw_domcaresecond_dose16 - under 50,SCW_DCP_AGE16YR50YR_NVD2
+hcw_domcaresecond_dose50 - under 65,SCW_DCP_AGE50YR65YR_NVD2
+hcw_domcaresecond_dose65 plus,SCW_DCP_AGE65PL_NVD2
+hcw_nursehomesecond_dose16 - under 50,SCW_NH_AGE16YR50YR_NVD2
+hcw_nursehomesecond_dose50 - under 65,SCW_NH_AGE50YR65YR_NVD2
+hcw_nursehomesecond_dose65 plus,SCW_NH_AGE65PL_NVD2
+hhldsecond_dose0 - under 16,HOUSE_AGE0YR16YR_NVD2
+hhldsecond_dose16 - under 50,HOUSE_AGE16YR50YR_NVD2
+hhldsecond_dose50 - under 65,HOUSE_AGE50YR65YR_NVD2
+hhldsecond_dose65 plus,HOUSE_AGE65PL_NVD2
+highrisk_shieldingsecond_dose0 - under 16,SHD_AGE0YR16YR_NVD2
+highrisk_shieldingsecond_dose16 - under 40,SHD_AGE16YR40YR_NVD2
+highrisk_shieldingsecond_dose40 - under 50,SHD_AGE40YR50YR_NVD2
+highrisk_shieldingsecond_dose50 - under 55,SHD_AGE50YR55YR_NVD2
+highrisk_shieldingsecond_dose55 - under 60,SHD_AGE55YR60YR_NVD2
+highrisk_shieldingsecond_dose60 - under 65,SHD_AGE60YR65YR_NVD2
+highrisk_shieldingsecond_dose65 - under 70,SHD_AGE65YR70YR_NVD2
+highrisk_shieldingsecond_dose70 - under 75,SHD_AGE70YR75YR_NVD2
+highrisk_shieldingsecond_dose75 - under 80,SHD_AGE75YR80YR_NVD2
+highrisk_shieldingsecond_dose80 - under 85,SHD_AGE80YR85YR_NVD2
+highrisk_shieldingsecond_dose85 plus,SHD_AGE85PL_NVD2
+immdxsecond_dose16 - under 40,IMM_AGE16YR40YR_NVD2
+immdxsecond_dose40 - under 50,IMM_AGE40YR50YR_NVD2
+immdxsecond_dose50 - under 65,IMM_AGE50YR65YR_NVD2
+immdxsecond_dose65 plus,IMM_AGE65PL_NVD2
+learndissecond_dose16 - under 40,LD_AGE16YR40YR_NVD2
+learndissecond_dose40 - under 50,LD_AGE40YR50YR_NVD2
+learndissecond_dose50 - under 65,LD_AGE50YR65YR_NVD2
+learndissecond_dose65 plus,LD_AGE65PL_NVD2
+longressecond_dose16 - under 50,LS_AGE16YR50YR_NVD2
+mentalsecond_dose16 - under 40,SMI_AGE16YR40YR_NVD2
+mentalsecond_dose40 - under 50,SMI_AGE40YR50YR_NVD2
+mentalsecond_dose50 - under 65,SMI_AGE50YR65YR_NVD2
+mentalsecond_dose65 plus,SMI_AGE65PL_NVD2
+obesity_no_otherrisksecond_dose16 - under 40,BMINORISK_AGE16YR40YR_NVD2
+obesity_no_otherrisksecond_dose40 - under 50,BMINORISK_AGE40YR50YR_NVD2
+obesity_no_otherrisksecond_dose50 - under 65,BMINORISK_AGE50YR65YR_NVD2
+obesity_no_otherrisksecond_dose65 plus,BMINORISK_AGE65PL_NVD2
+obesity_otherrisksecond_dose16 - under 40,BMI_AGE16YR40YR_NVD2
+obesity_otherrisksecond_dose40 - under 50,BMI_AGE40YR50YR_NVD2
+obesity_otherrisksecond_dose50 - under 65,BMI_AGE50YR65YR_NVD2
+obesity_otherrisksecond_dose65 plus,BMI_AGE65PL_NVD2
+respsecond_dose16 - under 40,RESP_AGE16YR40YR_NVD2
+respsecond_dose40 - under 50,RESP_AGE40YR50YR_NVD2
+respsecond_dose50 - under 65,RESP_AGE50YR65YR_NVD2
+respsecond_dose65 plus,RESP_AGE65PL_NVD2
+splnsecond_dose16 - under 40,PNSPLEEN_AGE16YR40YR_NVD2
+splnsecond_dose40 - under 50,PNSPLEEN_AGE40YR50YR_NVD2
+splnsecond_dose50 - under 65,PNSPLEEN_AGE50YR65YR_NVD2
+splnsecond_dose65 plus,PNSPLEEN_AGE65PL_NVD2
