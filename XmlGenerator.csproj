@@ -7,14 +7,18 @@
 
  <ItemGroup>
   <None Remove="appsettings.json" />
-  <None Remove="readcodes.csv" />
+  <None Remove="ethnicity_readcodes.csv" />
+  <None Remove="riskgroup_readcodes.csv" />
  </ItemGroup>
 
  <ItemGroup>
   <Content Include="appsettings.json">
    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
   </Content>
-  <Content Include="readcodes.csv">
+  <Content Include="ethnicity_readcodes.csv">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+  <Content Include="riskgroup_readcodes.csv">
    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
   </Content>
  </ItemGroup>

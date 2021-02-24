@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XmlGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "measuresdirectory=C:\\Users\\yram\\source\\repos\\YatishRam\\OpenSafely-covid-vaccine-uptake-riskgroup\\output\\measures searchPattern=*_stp.csv readcodescsv=C:\\Users\\yram\\source\\repos\\YatishRam\\MergeMeasures\\riskgroup_readcodes.csv schemaname=COVID_AT-RISK_2021-22_W.xsd surveyname=COVID_AT-RISK_2021-22_W_21-01"
+    }
+  }
+}

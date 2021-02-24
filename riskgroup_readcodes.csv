@@ -215,54 +215,54 @@ summary_riskgroupmo_second_dose70 - under 75,ATRISK_AGE70YR75YR_MOD2
 summary_riskgroupmo_second_dose75 - under 80,ATRISK_AGE75YR80YR_MOD2
 summary_riskgroupmo_second_dose80 - under 85,ATRISK_AGE80YR85YR_MOD2
 summary_riskgroupmo_second_dose85 plus,ATRISK_AGE85PL_MOD2
-summaryany_first_dose0 - under 16,AGE0YR16YR_VTNSD1
-summaryany_first_dose16 - under 30,AGE16YR30YR_VTNSD1
-summaryany_first_dose30 - under 40,AGE30YR40YR_VTNSD1
-summaryany_first_dose40 - under 50,AGE40YR50YR_VTNSD1
-summaryany_first_dose50 - under 55,AGE50YR55YR_VTNSD1
-summaryany_first_dose55 - under 60,AGE55YR60YR_VTNSD1
-summaryany_first_dose60 - under 65,AGE60YR65YR_VTNSD1
-summaryany_first_dose65 - under 70,AGE65YR70YR_VTNSD1
-summaryany_first_dose70 - under 75,AGE70YR75YR_VTNSD1
-summaryany_first_dose75 - under 80,AGE75YR80YR_VTNSD1
-summaryany_first_dose80 - under 85,AGE80YR85YR_VTNSD1
-summaryany_first_dose85 plus,AGE85PL_VTNSD1
-summary_riskgroupany_first_dose0 - under 16,ATRISK_AGE0YR16YR_VTNSD1
-summary_riskgroupany_first_dose16 - under 30,ATRISK_AGE16YR30YR_VTNSD1
-summary_riskgroupany_first_dose30 - under 40,ATRISK_AGE30YR40YR_VTNSD1
-summary_riskgroupany_first_dose40 - under 50,ATRISK_AGE40YR50YR_VTNSD1
-summary_riskgroupany_first_dose50 - under 55,ATRISK_AGE50YR55YR_VTNSD1
-summary_riskgroupany_first_dose55 - under 60,ATRISK_AGE55YR60YR_VTNSD1
-summary_riskgroupany_first_dose60 - under 65,ATRISK_AGE60YR65YR_VTNSD1
-summary_riskgroupany_first_dose65 - under 70,ATRISK_AGE65YR70YR_VTNSD1
-summary_riskgroupany_first_dose70 - under 75,ATRISK_AGE70YR75YR_VTNSD1
-summary_riskgroupany_first_dose75 - under 80,ATRISK_AGE75YR80YR_VTNSD1
-summary_riskgroupany_first_dose80 - under 85,ATRISK_AGE80YR85YR_VTNSD1
-summary_riskgroupany_first_dose85 plus,ATRISK_AGE85PL_VTNSD1
-summaryany_second_dose0 - under 16,AGE0YR16YR_VTNSD2
-summaryany_second_dose16 - under 30,AGE16YR30YR_VTNSD2
-summaryany_second_dose30 - under 40,AGE30YR40YR_VTNSD2
-summaryany_second_dose40 - under 50,AGE40YR50YR_VTNSD2
-summaryany_second_dose50 - under 55,AGE50YR55YR_VTNSD2
-summaryany_second_dose55 - under 60,AGE55YR60YR_VTNSD2
-summaryany_second_dose60 - under 65,AGE60YR65YR_VTNSD2
-summaryany_second_dose65 - under 70,AGE65YR70YR_VTNSD2
-summaryany_second_dose70 - under 75,AGE70YR75YR_VTNSD2
-summaryany_second_dose75 - under 80,AGE75YR80YR_VTNSD2
-summaryany_second_dose80 - under 85,AGE80YR85YR_VTNSD2
-summaryany_second_dose85 plus,AGE85PL_VTNSD2
-summary_riskgroupany_second_dose0 - under 16,ATRISK_AGE0YR16YR_VTNSD2
-summary_riskgroupany_second_dose16 - under 30,ATRISK_AGE16YR30YR_VTNSD2
-summary_riskgroupany_second_dose30 - under 40,ATRISK_AGE30YR40YR_VTNSD2
-summary_riskgroupany_second_dose40 - under 50,ATRISK_AGE40YR50YR_VTNSD2
-summary_riskgroupany_second_dose50 - under 55,ATRISK_AGE50YR55YR_VTNSD2
-summary_riskgroupany_second_dose55 - under 60,ATRISK_AGE55YR60YR_VTNSD2
-summary_riskgroupany_second_dose60 - under 65,ATRISK_AGE60YR65YR_VTNSD2
-summary_riskgroupany_second_dose65 - under 70,ATRISK_AGE65YR70YR_VTNSD2
-summary_riskgroupany_second_dose70 - under 75,ATRISK_AGE70YR75YR_VTNSD2
-summary_riskgroupany_second_dose75 - under 80,ATRISK_AGE75YR80YR_VTNSD2
-summary_riskgroupany_second_dose80 - under 85,ATRISK_AGE80YR85YR_VTNSD2
-summary_riskgroupany_second_dose85 plus,ATRISK_AGE85PL_VTNSD2
+summaryunstated_first_dose0 - under 16,AGE0YR16YR_VTNSD1
+summaryunstated_first_dose16 - under 30,AGE16YR30YR_VTNSD1
+summaryunstated_first_dose30 - under 40,AGE30YR40YR_VTNSD1
+summaryunstated_first_dose40 - under 50,AGE40YR50YR_VTNSD1
+summaryunstated_first_dose50 - under 55,AGE50YR55YR_VTNSD1
+summaryunstated_first_dose55 - under 60,AGE55YR60YR_VTNSD1
+summaryunstated_first_dose60 - under 65,AGE60YR65YR_VTNSD1
+summaryunstated_first_dose65 - under 70,AGE65YR70YR_VTNSD1
+summaryunstated_first_dose70 - under 75,AGE70YR75YR_VTNSD1
+summaryunstated_first_dose75 - under 80,AGE75YR80YR_VTNSD1
+summaryunstated_first_dose80 - under 85,AGE80YR85YR_VTNSD1
+summaryunstated_first_dose85 plus,AGE85PL_VTNSD1
+summary_riskgroupunstated_first_dose0 - under 16,ATRISK_AGE0YR16YR_VTNSD1
+summary_riskgroupunstated_first_dose16 - under 30,ATRISK_AGE16YR30YR_VTNSD1
+summary_riskgroupunstated_first_dose30 - under 40,ATRISK_AGE30YR40YR_VTNSD1
+summary_riskgroupunstated_first_dose40 - under 50,ATRISK_AGE40YR50YR_VTNSD1
+summary_riskgroupunstated_first_dose50 - under 55,ATRISK_AGE50YR55YR_VTNSD1
+summary_riskgroupunstated_first_dose55 - under 60,ATRISK_AGE55YR60YR_VTNSD1
+summary_riskgroupunstated_first_dose60 - under 65,ATRISK_AGE60YR65YR_VTNSD1
+summary_riskgroupunstated_first_dose65 - under 70,ATRISK_AGE65YR70YR_VTNSD1
+summary_riskgroupunstated_first_dose70 - under 75,ATRISK_AGE70YR75YR_VTNSD1
+summary_riskgroupunstated_first_dose75 - under 80,ATRISK_AGE75YR80YR_VTNSD1
+summary_riskgroupunstated_first_dose80 - under 85,ATRISK_AGE80YR85YR_VTNSD1
+summary_riskgroupunstated_first_dose85 plus,ATRISK_AGE85PL_VTNSD1
+summaryunstated_second_dose0 - under 16,AGE0YR16YR_VTNSD2
+summaryunstated_second_dose16 - under 30,AGE16YR30YR_VTNSD2
+summaryunstated_second_dose30 - under 40,AGE30YR40YR_VTNSD2
+summaryunstated_second_dose40 - under 50,AGE40YR50YR_VTNSD2
+summaryunstated_second_dose50 - under 55,AGE50YR55YR_VTNSD2
+summaryunstated_second_dose55 - under 60,AGE55YR60YR_VTNSD2
+summaryunstated_second_dose60 - under 65,AGE60YR65YR_VTNSD2
+summaryunstated_second_dose65 - under 70,AGE65YR70YR_VTNSD2
+summaryunstated_second_dose70 - under 75,AGE70YR75YR_VTNSD2
+summaryunstated_second_dose75 - under 80,AGE75YR80YR_VTNSD2
+summaryunstated_second_dose80 - under 85,AGE80YR85YR_VTNSD2
+summaryunstated_second_dose85 plus,AGE85PL_VTNSD2
+summary_riskgroupunstated_second_dose0 - under 16,ATRISK_AGE0YR16YR_VTNSD2
+summary_riskgroupunstated_second_dose16 - under 30,ATRISK_AGE16YR30YR_VTNSD2
+summary_riskgroupunstated_second_dose30 - under 40,ATRISK_AGE30YR40YR_VTNSD2
+summary_riskgroupunstated_second_dose40 - under 50,ATRISK_AGE40YR50YR_VTNSD2
+summary_riskgroupunstated_second_dose50 - under 55,ATRISK_AGE50YR55YR_VTNSD2
+summary_riskgroupunstated_second_dose55 - under 60,ATRISK_AGE55YR60YR_VTNSD2
+summary_riskgroupunstated_second_dose60 - under 65,ATRISK_AGE60YR65YR_VTNSD2
+summary_riskgroupunstated_second_dose65 - under 70,ATRISK_AGE65YR70YR_VTNSD2
+summary_riskgroupunstated_second_dose70 - under 75,ATRISK_AGE70YR75YR_VTNSD2
+summary_riskgroupunstated_second_dose75 - under 80,ATRISK_AGE75YR80YR_VTNSD2
+summary_riskgroupunstated_second_dose80 - under 85,ATRISK_AGE80YR85YR_VTNSD2
+summary_riskgroupunstated_second_dose85 plus,ATRISK_AGE85PL_VTNSD2
 summarynx_first_dose0 - under 16,AGE0YR16YR_NXD1
 summarynx_first_dose16 - under 30,AGE16YR30YR_NXD1
 summarynx_first_dose30 - under 40,AGE30YR40YR_NXD1
